@@ -1,6 +1,6 @@
 # Full-Stack MERN Hotel Booking APP
 
-This guide will walk you through the process of setting up the MERN Booking App on your local machine.
+A full-featured hotel booking application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). This project includes user authentication, hotel search and filtering, booking functionality, admin dashboard, and secure payment integration.
 
 ## Key Features 
 
@@ -12,6 +12,8 @@ This guide will walk you through the process of setting up the MERN Booking App 
 6. **Booking Management**: Implement the feature to view and manage bookings, essential for any booking application.
 7. **Recent Hotels on Home Page**: Display recently added hotels on the home page, keeping the content dynamic and engaging.
    
+This guide will walk you through the process of setting up the MERN Booking App on your local machine.
+
 ## Prerequisites
 
 Before you begin, ensure you have Node.js installed on your system.
