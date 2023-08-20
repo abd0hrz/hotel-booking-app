@@ -11,7 +11,7 @@ A full-featured hotel booking application built with the MERN stack (MongoDB, Ex
 5. **Online Payments**: Integrate Stripe for secure and efficient hotel booking payments.
 6. **Booking Management**: Implement the feature to view and manage bookings, essential for any booking application.
 7. **Recent Hotels on Home Page**: Display recently added hotels on the home page, keeping the content dynamic and engaging.
-   
+---
 This guide will walk you through the process of setting up the MERN Booking App on your local machine.
 
 ## Prerequisites
