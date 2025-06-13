@@ -24,7 +24,7 @@ Start by cloning the repository to your local machine:
 
 ```bash
 git clone https://github.com/abd0hrz/hotel-booking-app.git
-cd mern-booking-app
+cd hotel-booking-app
 ```
 
 ## Backend Configuration
